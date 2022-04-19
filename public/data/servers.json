@@ -459,5 +459,12 @@
     "flag": "us",
     "platform": "switch",
     "type": "rust"
+  },
+   {
+    "ip": "saoturk.ga",
+    "port": 11451,
+    "flag": "tr",
+    "platform": "switch",
+    "type": "rust"
   }
 ]
